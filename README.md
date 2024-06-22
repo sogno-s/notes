@@ -1,0 +1,2 @@
+# notes
+fullstack coding 
