@@ -1,0 +1,22 @@
+# Виртуальное окружение
+venv/
+
+# Python-специфические
+*.pyc
+__pycache__/
+db.sqlite3
+
+# IDE и редакторы
+.idea/
+.vscode/
+
+# Логи
+*.log
+
+# Node.js
+node_modules/
+
+
+.DS_Store
+Thumbs.db
+ 
